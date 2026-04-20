@@ -1,6 +1,5 @@
 # SQL Week 2 Assignment
-
-Name: Mutanu Mulei   
+Name: Melody Mulei   
 
 ## Description
 This repository contains SQL practice exercises covering:
@@ -24,3 +23,4 @@ part_6_set_operators.sql
 ## Article
 
 [https://dev.to/melody_mulei/mastering-the-sql-analytical-toolkit-2c3g]
+
